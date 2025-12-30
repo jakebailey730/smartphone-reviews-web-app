@@ -1,0 +1,10 @@
+[
+    {
+        "username": "TestUser",
+        "first_name": "Test",
+        "last_name": "User",
+        "email": "TestUser@test.com",
+        "password": "$2y$10$dX9vcFnH41i8KLEiSUGwGOahU4OSjjJ4FDWo.h3EfecUMFJfY.Fj2",
+        "favourite": "Iphone 16 Pro Max"
+    }
+]
